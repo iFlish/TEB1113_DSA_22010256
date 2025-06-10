@@ -9,14 +9,8 @@ This repository contains lab tasks for the TEB1113 Algorithm and Data Structure 
 | Date       | Lab   | Tasks                                                                 |
 |------------|--------|-----------------------------------------------------------------------|
 | 28/5/2025  | Lab 1 | - [22010256_ammirrul_L1.cpp](Lab_1/22010256_ammirrul_L1.cpp)          |
-| 04/6/2025  | Lab 2 | *Add your tasks here, for example:*<br> - [Easy](Lab_2/Easy.cpp)<br> - [Medium](Lab_2/Medium.cpp)<br> - [Hard](Lab_2/Hard.cpp) |
+| 04/6/2025  | Lab 2 | - [Easy](Lab_2/Easy.cpp)<br> - [Medium](Lab_2/Medium.cpp)<br> - [Hard](Lab_2/Hard.cpp) |
 
 ---
 
-## 📂 Folder Structure
-
-- `Lab_1/` – Contains Week 1 Lab exercises.
-- `Lab_2/` – Contains Week 2 Lab exercises.
-
----
 
