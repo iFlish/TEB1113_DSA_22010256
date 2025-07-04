@@ -12,7 +12,8 @@ This repository contains lab tasks for the TEB1113 Algorithm and Data Structure 
 | 10/6/2025  | Lab 2 | - [Easy](Lab_2/easy.cpp)<br> - [Medium](Lab_2/medium.cpp)<br> - [Hard](Lab_2/Hard.cpp) |
 | 20/6/2025  | Lab 3 | - [LinkedList](Lab_3/LinkedList.cpp) |
 | 21/6/2025  | Lab 4 | - [Circular LinkedList](Lab_4/CirclyLinkedList.cpp)<br> - [Doubly Linked List](Lab_4/DoublyLinkedList.cpp)  |
-| 4/7/2025  | Lab 5 | -  |[stack](Lab_5/stack.cpp)
+| 4/7/2025  | Lab 5 | -  | 4/7/2025   | Lab 5 | - [stack](Lab_5/stack.cpp) |
+
 ---
 
 
