@@ -14,7 +14,7 @@ This repository contains lab tasks for the TEB1113 Algorithm and Data Structure 
 | 21/6/2025  | Lab 4 | - [Circular LinkedList](Lab_4/CirclyLinkedList.cpp)<br> - [Doubly Linked List](Lab_4/DoublyLinkedList.cpp) |
 | 4/7/2025   | Lab 5 | - [stack](Lab_5/stack.cpp)  
 | 11/7/2025   | Lab 6 | - [Queue using array](Lab_6/Queue_Array.cpp)      |
-| 18/7/2025   | Lab 7 | - [Normal Tree](Lab_7/Tree.cpp)<br> - [Simpler Tree Code](Lab_7/Tree_simpler.cpp) |   
+| 18/7/2025   | Lab 7 | - [Normal Tree](Lab_7/Tree.cpp)<br> - [Simpler Tree Code](Lab_7/Tree _simpler.cpp) |   
 ---
 
 
